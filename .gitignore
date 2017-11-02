@@ -1,0 +1,6 @@
+admin/settings/
+admin/uploads/
+idea/
+trash/
+*.log
+*.tmp
